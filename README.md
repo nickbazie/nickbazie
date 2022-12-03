@@ -4,9 +4,8 @@ I'm Nico Volo, a Junior Web Developer in both frontend and backend development, 
 
 - ☕ Expert coffee lover
 - 🌱 I’m currently learning programming and web development
-- 💬 Ask me about whatever you think may help you
+- 💬 I speak: English, Spanish, Russian, Ukrainian
 - 📫 How to reach me: nickbazie@gmail.com
-- 😄 I speak: English, Spanish, Russian, Ukrainian
 
 ---
 

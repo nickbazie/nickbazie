@@ -1,6 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25"> I'm [Nico!](https://www.linkedin.com/in/nicol%C3%A1s-voloshchuk-2b8a6280/) Welcome to my Github!
 
-I'm Nico Volo, a Junior Web Developer 👩💻 in both frontend and backend development, thirsty for learning and passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
+I'm Nico Volo, a Junior Web Developer in both frontend and backend development, thirsty for learning and passionate about web technologies and building interesting projects. I love learning every day how to create open source projects and contribute to the community.
 
 - ☕ Expert coffee lover
 - 🌱 I’m currently learning programming and web development
